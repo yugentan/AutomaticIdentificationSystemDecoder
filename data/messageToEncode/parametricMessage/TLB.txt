@@ -1,0 +1,1 @@
+type: $GPTLB,totaltarget: 2,1target: 12,1label: REW,2target: 13,2label: FSD

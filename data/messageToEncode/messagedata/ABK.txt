@@ -1,0 +1,1 @@
+type: $GPABK,MMSI: 961320000,AIS: A,MID: 7,acknowledgement: 4,

@@ -1,0 +1,1 @@
+type: $GPRSA,starboard: 1.1,status1: A,rudder: 1.1,status2: A

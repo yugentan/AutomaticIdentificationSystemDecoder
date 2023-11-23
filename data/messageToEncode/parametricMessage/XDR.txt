@@ -1,0 +1,1 @@
+type: $IIXDR,NumberOfTransducer: 2,1type: C,1data: 22.5,1unit: C,1transducer: Air Temp,2type: C,2data: 15.3,2unit: C,2transducer: Water Temp

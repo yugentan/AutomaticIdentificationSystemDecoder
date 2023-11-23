@@ -1,0 +1,1 @@
+type: $CCLR2,sequence: 1,requestor: 89324000,date: 01011995,UTC: 112233.44,latitude: 0234.12,NorthSouth: N,longitude: 123.1,EastWest: E,cog: 1.1,true: T,sog: 1.1,knots: N

@@ -1,0 +1,1 @@
+type: $GPGBS,UTC: 091342.00,latitude: 1.1,longitude: 2.2,altitude: 3.3,satellite: 44,detection: 5.5,meters: 6.6,bias: 7.7

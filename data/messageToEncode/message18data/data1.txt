@@ -1,0 +1,1 @@
+messageID: 18,repeater: 0,MMSI: 423302100,spare1: 15,SOG: 1.4,PA: 1,longitude: 53.0109966666667,latitude: 40.0052833333333,COG: 177,trueHeading: 177,timeStamp: 34,spare2: 0,unit: 1,display: 1,DSC: 1,band: 1,message: 1,mode: 0,RAIM: 0,flag: 1,state: 3,increment: 0,slot: 3,keepFlag: 0,type: !AIVDM,channel: 1,sequential: 

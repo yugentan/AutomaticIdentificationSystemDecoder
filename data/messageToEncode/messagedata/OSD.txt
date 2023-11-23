@@ -1,0 +1,1 @@
+type: $GPOSD,headingDegrees: 0.1,headingStatus: A,courseDegrees: 0.2,courseReference: B,speed: 0.3,speedReference: B,setDegrees: 0.4,drift: 0.5,speedUnits: K

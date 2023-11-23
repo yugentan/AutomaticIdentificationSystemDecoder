@@ -1,0 +1,1 @@
+type: $GPALM,totalSentence: 1,sentenceNumber: 1,PRN: 12,GPS: 1023,SV: 1,eccentricity: 1.5,almanac: 0.0,inclination: 45.0,RORA: 1.5,ROSMA: 0.7,AOP: 329.5,longitude: 65.5,anomaly: 0.0,F0: 0.0,F1: 0.0

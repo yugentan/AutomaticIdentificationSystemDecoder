@@ -1,0 +1,1 @@
+type: $CCSFI,totalSentence: 1,sentenceNumber: 1,totalFreq: 2,1freq: 432,1MOO: d,2freq: 12,2MOO: d

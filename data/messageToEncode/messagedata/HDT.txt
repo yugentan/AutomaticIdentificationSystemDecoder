@@ -1,0 +1,1 @@
+type: $GPHDT,heading: 274.07,degree: T

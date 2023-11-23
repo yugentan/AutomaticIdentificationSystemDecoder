@@ -1,0 +1,1 @@
+messageID: 1,repeater: 2,MMSI: 603916439,NS: 0,ROT: 1,SOG: 61.2,PA: 0,longitude: 27.0833333333333,latitude: 5.08333333333333,COG: 95.9,trueHeading: 351,timeStamp: 53,reserved: 0,spare1: 1,RAIM: 0,state: 0,timeOut: 1,subMessage: 7748,type: !AIVDM,channel: 1,sequential: 

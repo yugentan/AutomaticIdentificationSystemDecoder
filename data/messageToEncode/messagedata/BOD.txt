@@ -1,0 +1,1 @@
+type: $GPBOD,bearingTrue: 1.1,true: T,bearingMagnetic: 1.1,magnetic: M,destination: 121,origin: 123

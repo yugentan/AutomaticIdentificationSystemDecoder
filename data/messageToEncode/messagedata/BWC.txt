@@ -1,0 +1,1 @@
+type: $GPBWC,UTC: 091342.00,latitude: 4728.31,NorthSouth: N,longitude: 12254.25,EastWest: W,bearingTrue: 1.1,true: T,bearingMagnetic: 1.1,magnetic: M,distance: 1.1,nautical: N,waypoint: 123,indicator: A

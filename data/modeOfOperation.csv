@@ -1,0 +1,11 @@
+w,F1B/J2B, teleprinter/DSC
+d,F3E/G3E simplex, telephone
+x,A1A Morse, tape recorder
+e,F3E/G3E duplex, telephone
+{,A1A Morse, Morse key/head set
+m,J3E, telephone
+|,F1C/F2C/F3C, FAX-machine
+o,H3E, telephone
+q,F1B/J2B FEC NBDP, Telex/teleprinter
+s,F1B/J2B ARQ NBDP, Telex/teleprinter
+t,F1B/J2B receive only, teleprinter/DSC 

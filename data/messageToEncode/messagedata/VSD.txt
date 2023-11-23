@@ -1,0 +1,1 @@
+type: $GPVSD,Ship&CargoCategory: 1.1,maximum: 25.5,personOnBoard: 8191,destination: GFDASD,UTC: 112233.44,day: 10,month: 01,status: 1,regional: 0

@@ -1,0 +1,1 @@
+type: $GPVPW,speed1: 1.1,knot: N,speed2: 1.1,meter: M

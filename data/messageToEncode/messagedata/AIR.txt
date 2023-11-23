@@ -1,0 +1,1 @@
+type: $GPAIR,MMSI1: 543427283,message1: 5,submessage1: ,message2: 5,submessage2: ,MMSI2: 671238732,message3: 5,submessage3: 

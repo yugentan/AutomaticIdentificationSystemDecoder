@@ -1,0 +1,1 @@
+type: $GPALR,UTC: 091342.00,identifier: 123,condition: A,acknowledge: A,description: GSDRE

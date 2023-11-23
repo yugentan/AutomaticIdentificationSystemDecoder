@@ -1,0 +1,1 @@
+type: $GPSTN,talker: 99

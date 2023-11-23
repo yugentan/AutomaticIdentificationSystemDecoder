@@ -1,0 +1,1 @@
+type: $GPHMR,heading1: A,heading2: B,limit: 1.1,flag: A,sensor1: 2.2,sensor1Data: A,sensor1Type: M,sensor1Deviation: 3.3,sensor1Degrees: E,sensor2: 4.4,sensor2Data: A,sensor2Type: T,sensor2Deviation: 5.5,sensor2Degrees: W,variation: 6.6,variationDegrees: E

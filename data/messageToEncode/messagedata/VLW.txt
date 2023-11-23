@@ -1,0 +1,1 @@
+type: $GPVLW,totalWater: 9.9,nautical1: N,resetWater: 1.1,nautical2: N,totalGround: 1.1,nautical3: N,resetGround: 1.1,nautical4: N

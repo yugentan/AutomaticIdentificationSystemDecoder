@@ -1,0 +1,1 @@
+type: $GPWPL,latitude: 4226.265,NorthSouth: N,longitude: 07125.890,EastWest: W,identifier: WEFSD

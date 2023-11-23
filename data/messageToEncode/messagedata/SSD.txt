@@ -1,0 +1,1 @@
+type: $GPSSD,callSign: TWEF,name: TSD,bow: 111,stern: 111,port: 21,starboard: 22,DTE: 0,source: AA

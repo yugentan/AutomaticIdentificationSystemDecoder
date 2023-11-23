@@ -1,0 +1,1 @@
+type: $GPAAM,circle: A,perpendicular: A,arrival: 0.10,nautical: N,waypoint: WPTNME

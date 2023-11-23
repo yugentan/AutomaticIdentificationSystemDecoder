@@ -1,0 +1,5 @@
+0,message (6 or 12) successfully received by the addressed AIS unit
+1,message (6 or 12) was broadcast, but no acknowledgement by the addressed AIS unit
+2,message could not be broadcast (i.e. quantity of encapsulated data exceeds five slots)
+3,requested broadcast of message (8, 14, or 15) has been successfully completed
+4,late reception of a message 7 or 13 acknowledgement that was addressed to this AIS unit (own-ship) and referenced a valid transaction.

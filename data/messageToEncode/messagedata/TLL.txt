@@ -1,0 +1,1 @@
+type: $GPTLL,target: 1.1,latitude: 4226.265,NorthSouth: N,longitude: 07125.890,EastWest: W,name: TEF,UTC: 112233.44,status: L,reference: R

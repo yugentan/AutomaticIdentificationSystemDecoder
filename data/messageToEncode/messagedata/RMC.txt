@@ -1,0 +1,1 @@
+type: $GPRMC,UTC: 112233.44,status: A,latitude: 4226.265,NorthSouth: N,longitude: 07125.890,EastWest: W,sog: 0.1,cog: 0.2,date: 010220,magnetic: 0.3,degrees: E,mode: A

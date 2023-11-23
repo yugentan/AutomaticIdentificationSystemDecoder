@@ -1,0 +1,1 @@
+type: $GPDCN,decca: 99,redZone: TT,redLOP: 1.1,redMaster: A,greenZone: TT,greenLOP: 2.2,greenMaster: A,purpleZone: TC,purpleLOP: 3.3,purpleMaster: A,redLine: A,greenLine: A,purpleLine: A,position: 4.4,mile: N,data: 1

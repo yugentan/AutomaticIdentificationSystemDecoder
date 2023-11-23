@@ -1,0 +1,1 @@
+type: $GPVTG,cog1: 1.1,true: T,cog2: 2.2,magnetic: M,sog1: 1.1,knots: N,sog2: 2.2,km: K,mode: A

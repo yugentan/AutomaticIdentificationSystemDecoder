@@ -1,0 +1,7 @@
+static
+MMSI: 123456789
+Ship call sign: alpha
+
+dynamic
+Longitude: 19.000
+Latitude: 21.00

@@ -1,0 +1,1 @@
+type: $GPMWV,windAngle: 0.1,reference: R,windSpeed: 0.2,units: K,status: A

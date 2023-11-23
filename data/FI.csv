@@ -1,0 +1,64 @@
+1,Text message
+2,Safety-related message
+3,Safety-related broadcast message
+4,Interrogation
+5,Assignment mode command
+6,DGNSS binary broadcast message
+7,Standard SAR aircraft position report
+8,UTC/date inquiry
+9,UTC/date response
+10,Addressed safety-related message
+11,Addressed safety-related acknowledge message
+12,Extended Class B equipment position report
+13,Receiving station cannot decode addressed binary message
+14,Safety message
+15,Long-range AIS broadcast message
+16,Special purpose message
+17,First aid message
+18,Poll request
+19,Poll response
+20,Data link management message
+21,Single slot binary message
+22,Multi-slot binary message with communications state
+23,Position report for long-range applications
+24,AIS-SART position report
+25,UTC/date response for long-range applications
+26,UTC/date command for long-range applications
+27,Addressed safety-related message for long-range applications
+28,Safety-related broadcast message for long-range applications
+29,Interrogation for long-range applications
+30,Assignment mode command for long-range applications
+31,Standard SAR aircraft position report for long-range applications
+32,Aids-to-navigation report
+33,Channel Management message
+34,Group Assignment Command
+35,Static data report
+36,Single slot binary message with communication state
+37,RATT
+38,Multipurpose inter-radar survey message
+39,Multipurpose inter-radar survey acknowledge message
+40,Position report for hazardous cargo
+41,AIS-SART position report for long-range applications
+42,Channel Management extended message
+43,Application specific binary message
+44,Binary message with specified communications state
+45,Standard Class B CS Position Report
+46,Extended Class B Equipment Position Report
+47,Data Link Management message
+48,Aid-to-navigation report
+49,Channel Management message
+50,Group Assignment Command
+51,Static data report
+52,Single slot binary message with communication state
+53,RATT
+54,Multipurpose inter-radar survey message
+55,Multipurpose inter-radar survey acknowledge message
+56,Application specific binary message
+57,Binary message with specified communications state
+58,Standard Class B CS Position Report
+59,Extended Class B Equipment Position Report
+60,Data Link Management message
+61,Aid-to-navigation report
+62,Channel Management message
+63,Group Assignment Command
+64,Static data report

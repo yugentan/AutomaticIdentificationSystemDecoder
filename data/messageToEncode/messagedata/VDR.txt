@@ -1,0 +1,1 @@
+type: $GPVDR,direction1: 1.1,true: T,direction2: 1.1,magnetic: M,speed: 1.1,knots: N

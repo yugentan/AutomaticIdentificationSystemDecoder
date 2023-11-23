@@ -1,0 +1,1 @@
+type: $GPGSV,totalSentence: 1,sentenceNumber: 1,satellites: 1,id: 11,elevation: 45,azimuth: 350,signal: 12

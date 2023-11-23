@@ -1,0 +1,1 @@
+messageID: 19,repeater: 0,MMSI: 601000013,spare1: 15,SOG: 2.9,PA: 0,longitude: -32.19953,latitude: -29.8374783333333,COG: 89,trueHeading: 90,timeStamp: 12,spare2: 15,name: TEST NAME CLSB MSG19,shipType: 37,bow: 7,stern: 6,port: 2,starboard: 3,EPFD: 1,RAIM: 0,DTE: 1,mode: 0,spare3: 0,type: !AIVDM,channel: 2,sequential:

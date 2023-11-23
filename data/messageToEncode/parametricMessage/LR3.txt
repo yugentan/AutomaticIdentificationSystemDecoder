@@ -1,0 +1,1 @@
+type: $CCLR3,sequence: 1,requestor: 89324000,destination: HERE,date: 10011995,time: 112233.44,draught: 1.1,cargo: 1.1,length: 1.1,breadth: 1.1,shipType: 1,person: 1910

@@ -1,0 +1,1 @@
+type: $GPGST,UTC: 182141.000,RMS: 15.5,major: 15.3,minor: 7.2,orientation: 21.8,latitude: 0.9,longitude: 0.5,altitude: 0.8

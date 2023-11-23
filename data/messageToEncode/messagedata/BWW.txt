@@ -1,0 +1,1 @@
+type: $GPBWW,bearingTrue: 1.1,true: T,bearingMagnetic: 1.1,magnetic: M,to: 121,from: 123

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AutomaticIdentificationSystemDecoder:jar">
+    <output-path>$PROJECT_DIR$/dist</output-path>
+    <root id="archive" name="AutomaticIdentificationSystemDecoder.jar">
+      <element id="module-output" name="AutomaticIdentificationSystemDecoder" />
+    </root>
+  </artifact>
+</component>

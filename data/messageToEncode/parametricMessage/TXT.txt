@@ -1,0 +1,1 @@
+type: $GPTXT,totalSentence: 02,1sentenceNumber: 02,1identifier: 25,1message: DR MODE - ANTENNA FAULT!,2sentenceNumber: 02,2identifier: 25,2message: DR MODE - ANTENNA FAULT!,

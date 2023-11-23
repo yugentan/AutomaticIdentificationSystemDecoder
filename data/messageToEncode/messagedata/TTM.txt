@@ -1,0 +1,1 @@
+type: $GPTTM,number: 99,distance: 0.1,bearing: 0.2,degrees: T,speed: 0.3,course: 0.4,courseDegrees: T,CPOA: 0.5,CPA: 0.6,unit: K,name: GV,status: L,reference: R,UTC: 112233.44,acquisition: A

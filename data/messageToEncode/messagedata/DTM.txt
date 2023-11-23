@@ -1,0 +1,1 @@
+type: $GPDTM,datumCode: W84,datumSubdivision: A,latitude: 1.1,longitude: 2.2,altitude: 3.3,refCode: W84

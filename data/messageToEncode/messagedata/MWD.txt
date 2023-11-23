@@ -1,0 +1,1 @@
+type: $GPMWD,windDirection1: 0.1,true: T,windDirection2: 0.2,magnetic: M,windSpeed1: 0.3,knots: N,windSpeed2: 0.4,meter: M

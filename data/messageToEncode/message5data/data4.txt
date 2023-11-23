@@ -1,0 +1,1 @@
+messageID: 5,repeater: 0,MMSI: 603916439,aisver: 0,IMO: 439303422,callSign: ZA83R,name: ARCO AVON,shipType: 30,bow: 113,stern: 31,port: 17,starboard: 11,EPFD: 0,month: 3,day: 23,hour: 19,minute: 45,draught: 13.2,destination: MAGIC,DTE: 0,spare1: 0,type: !AIVDM,channel: 1,sequential: 0

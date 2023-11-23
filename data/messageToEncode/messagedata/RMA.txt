@@ -1,0 +1,1 @@
+type: $LCRMA,manoeuvre: A,latitude: 4226.265,NorthSouth: N,longitude: 07125.890,EastWest: W,SOG: 14172.33,COG: 26026.71,ROT: 8.53,trueHeading: 275.,ROA: 14.0,TOP: W,source: D

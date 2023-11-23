@@ -1,0 +1,1 @@
+type: $GPXTE,state1: A,state2: A,magnitude: 1.1,direction: L,units: N,mode: A

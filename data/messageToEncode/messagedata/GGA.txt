@@ -1,0 +1,1 @@
+type: $GPGGA,UTC: 091342.00,latitude: 4728.31,NorthSouth: N,longitude: 12254.25,EastWest: W,indicator: 1,satellites: 02,precision: 3.3,geoid: 4.4,meter1: M,separation: 5.5,meters2: M,data: 6.6,station: 0007

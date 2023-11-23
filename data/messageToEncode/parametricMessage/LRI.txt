@@ -1,0 +1,1 @@
+type: $CCLRI,sequence: 1,flag: 0,requestor: 89324000,destination: 93123476,latitudeN: 0234.12,NorthSouthN: N,longitudeN: 123.1,EastWestN: E,latitudeS: 164.21,NorthSouthS: N,longitudeS: 8.1,EastWestS: E 

@@ -1,0 +1,1 @@
+type: $GPHTC,override: A,angle: 1.1,direction: L,steering: S,turnMode: R,limit: 2.2,radius: 3.3,rate: 4.4,headingToSteer: 5.5,offTrackLimit: 6.6,track: 1.1,reference: T

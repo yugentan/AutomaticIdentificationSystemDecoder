@@ -1,0 +1,12 @@
+00,Fire/Explosion
+01,Flooding
+02,Collision
+03,Grounding
+04,Listing in danger of capsizing
+05,Sinking
+06,Disabled and adrift
+07,Undesignated distress
+08,Abandoning ship
+09,Piracy/Armed robbery attack
+10,Man overboard
+12,EPIRB emission

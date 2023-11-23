@@ -1,0 +1,1 @@
+type: $GPHSC,heading1: 1.1,degree: T,heading2: 2.2,magnetic: M

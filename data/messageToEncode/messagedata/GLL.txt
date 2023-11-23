@@ -1,0 +1,1 @@
+type: $LCGLL,latitude: 4728.31,NorthSouth: N,longitude: 12254.25,EastWest: W,UTC: 091342,status: A,mode: A

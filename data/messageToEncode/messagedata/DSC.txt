@@ -1,0 +1,1 @@
+type: $GPDSC,specifier: 34,address: 979899999,category: 98,distress1: 11,communication: 44,position: 1.2,time: 3.4,MMSI: 456544765,distress2: 56,acknowledgment: R,expansion: E

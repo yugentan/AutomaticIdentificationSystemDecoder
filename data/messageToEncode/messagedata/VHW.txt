@@ -1,0 +1,1 @@
+type: $GPVHW,heading1: 1.1,true: T,heading2: 1.1,magnetic: M,speed1: 1.1,knots: N,speed2: 1.1,km: K

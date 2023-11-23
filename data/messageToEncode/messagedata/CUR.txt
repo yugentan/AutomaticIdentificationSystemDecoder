@@ -1,0 +1,1 @@
+type: $GPCUR,validity: A,data: 9,layer: 1,depth: 1.1,direction: 1.1,reference: T,speed: 1.1,layerDepth: 1.1,heading: 1.1,headingReference: T,speedReference: B

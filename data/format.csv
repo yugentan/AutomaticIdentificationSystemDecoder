@@ -1,0 +1,91 @@
+AAM,Waypoint Arrival Alarm
+ABK,UAIS Addressed & binary broadcast acknoledgement
+ACA,UAIS Regional Channel Assignment Message
+ACK,Acknowledge Alarm
+ACS,UAIS Channel management information Source
+AIR,UAIS Interrogation Request
+ALM,GPS Almanac Data
+ALR,Set Alarm Satellite
+APB,Heading/Track Controller (Autopilot) Sentence "B"
+BEC,Bearing & Distance to Waypoint - Dead Reckoning
+BOD,Bearing - Origin to Destination
+BWC,Bearing & Distance to Waypoint
+BWR,Bearing & Distance to Waypoint - Rhumb Line
+BWW,Bearing - Waypoint to Waypoint
+CUR,Water Current Layer
+DBT,Depth Below Transducer
+DCN,Decca Position
+DPT,Depth
+DSC,Digital Selective Calling Information
+DSE,Expanded Digital Selective Calling
+DSI,DSC Transponder Initialize
+DSR,DSC Transponder Response
+DTM,Datum Reference
+FSI,Frequency Set Information
+GBS,GNSS Satellite Fault Detection
+GGA,Global Positioning System Fix Data
+GLC,Geographic Position - Loran c
+GLL,Geographic Position - Latitude/Longitude
+GMP,GNSS Map Projection Fix Data
+GNS,GNSS Fix Data
+GRS,GNSS Range Residuals
+GSA,GNSS DOP & Active Satellites
+GST,GNSS Pseudorange Error Statistics
+GSV,GNSS Satellites in View
+HDG,Heading/Deviation/Variation
+HDT,Heading true
+HMR,Heading Monitor Receiver
+HMS,Heading Monitor Set
+HSC,Heading Steering Command
+HTC,Heading/Track Control Command
+HTD,Heading/Track Control Data
+LCD,Loran-C Signal Data
+LRF,UAIS Long-Range Function
+LRI,UAIS Long-Range Interrogation
+LR1,UAIS Long-Range Reply Sentence 1
+LR2,UAIS Long-Range Reply Sentence 2
+LR3,UAIS Long-Range Reply Sentence 3
+MLA,GLONASS Almanac Data
+MSK,MSK Receiver Interface
+MSS,MSK Receiver Signal
+MTW,Water Temperature
+MWD,Wind Direction & Speed
+MWV,Wind Speed & Angle
+OSD,Own Ship Data
+RMA,Recommended Minimum Specific Loran-C Data
+RMB,Reccomended Minimum Navigation Information
+RMC,Reccomended Minimum Specific GNSS Data
+ROT,Rate Of Turn
+RPM,Revolutions
+RSA,Rudder Sendor Angle
+RSD,Radar System Data
+RTE,Routes RTE - Routes
+SFI,Scanning Frequency Information
+SSD,UAIS Ship Static Data
+STN,Multiple Data ID
+TLB,Target Label
+TLL,Target Latitude & Longitude
+TTM,Tracked Target Message
+TUT,Transmission of Multi-language Text
+TXT,Text Transmission
+VBW,Dual Ground/Water Speed
+VDR,Set & Drift
+VHW,Water Speed & Heading
+VLW,Dual Ground/Water Distance
+VPW,Speed - Measured Parallel to Wind
+VSD,UAIS Voyage Static Data
+VTG,Course Over Ground & Ground Speed
+WCV,Waypoint Closure Velocity
+WNC,Distance - Waypoint to Waypoint
+WPL,Waypoint Location
+XDR,Transducer Measurements
+XTE,Cross-Track Error Measured
+XTR,Cross-Track Error - Dead Reckoning
+ZDA,Time & DATE
+ZDL,Time & Distance to Variable Point
+ZFO,UTC & Time from Origin Waypoint
+ZTG,UTC & Time to Destination Waypoint
+ABM,UAIS Addressed binary & safety related message
+BBM,UAIS Broadcast Binary Message
+VDM,UAIS VHF Data-link Message
+VDO,UAIS VHF Data-link Own-vessel report

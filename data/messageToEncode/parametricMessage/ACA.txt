@@ -1,0 +1,1 @@
+type: $GPACA,sequence: 1,RNCLat: 1023.11,NorthSouthN: N,RNCLong: 42.11,EastWestN: E,RSCLat: 1002.21,NorthSouthS: N,RSCLong: 21.42,EastWestS: E,transition: 1,A: 1,bandwidthA: 423,B: 1,bandwidthB: 123,TxRx: 3,powerLevel: 3,information: F,flag: 3,time: 112233.44

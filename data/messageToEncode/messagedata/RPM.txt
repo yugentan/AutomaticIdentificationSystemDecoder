@@ -1,0 +1,1 @@
+type: $GPRPM,source: S,engine: 2,speed: 0.1,propeller: 0.1,status: A

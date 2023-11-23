@@ -1,0 +1,1 @@
+type: $CTFSI,transmitting: 020230,receiving: 026140,communications: m,power: 0

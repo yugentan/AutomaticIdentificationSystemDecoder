@@ -1,0 +1,1 @@
+type: $GPWCV,velocity: 1.1,knots: N,waypoint: GRSD,mode: A

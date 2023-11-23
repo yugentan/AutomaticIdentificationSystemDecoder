@@ -1,0 +1,1 @@
+type: $GPZTG,UTC: 112233.44,time: 332211.44,waypoint: SFD

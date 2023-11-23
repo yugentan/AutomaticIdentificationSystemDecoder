@@ -1,0 +1,1 @@
+type: $GPAPB,state1: A,state2: A,magnitude: 1.1,steer: L,XTE: N,status3: A,state4: A,bearing1: 12.1,MT1: M,waypoint: DFS,bearing2: 1.1,MT2: M,heading: 1.1,MT3: M,mode: A

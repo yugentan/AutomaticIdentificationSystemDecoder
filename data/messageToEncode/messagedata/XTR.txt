@@ -1,0 +1,1 @@
+type: $GPXTR,magnitude: 1.1,direction: L,units: N

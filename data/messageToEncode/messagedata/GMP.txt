@@ -1,0 +1,1 @@
+type: $GNGMP,UTC: 122310.2,identification: UTM,zone: M20,northern: 12345.56,eastern: 65543.21,mode: DA,satellites: 14,HDOP: 0.9,antenna: 1005.543,geoidal: 6.5,data: 5.2,station: 23

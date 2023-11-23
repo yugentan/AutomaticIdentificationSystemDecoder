@@ -1,0 +1,1 @@
+type: $GPDBT,depthFeet: 1.1,feet: f,depthMeter: 1.1,meter: M,depthFathom: 1.1,fathom: F

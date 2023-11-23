@@ -1,0 +1,1 @@
+type: $CCRTE,totalSentence: 1,sequence: 1,mode: c,route: EBUR,totalwaypoint: 2,1waypoint: 13,2waypoint: 12

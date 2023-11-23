@@ -1,0 +1,1 @@
+messageID: 9,repeater: 0,MMSI: 366000005,altitude: 16,SOG: 100,PA: 1,longitude: -82.9164583333333,latitude: -29.20575,COG: 30,timeStamp: 53,sensor: 0,spare1: 0,DTE: 1,spare2: 0,assigned: 0,RAIM: 0,flag: 0,state: 0,timeOut: 0,subMessage: 0,type: !AIVDM,channel: 1,sequential: 0

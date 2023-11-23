@@ -1,0 +1,1 @@
+type: $GPGLC,GRL: 1111,TOA: 2.2,TOAStatus: A,TD1: 3.3,TD1Status: A,TD2: 4.4,TD2Status: A,TD3: 5.5,TD3Status: A,TD4: 6.6,TD4Status: A,TD5: 7.7,TD5Status: A

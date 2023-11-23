@@ -1,0 +1,1 @@
+type: $GPACS,sequence: 1,MMSI: 132654980,UTC: 112233.44,day: 01,month: 12,year: 2010

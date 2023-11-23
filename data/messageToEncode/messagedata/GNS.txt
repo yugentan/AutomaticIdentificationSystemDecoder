@@ -1,0 +1,1 @@
+type: $GNGNS,UTC: 122310.2,latitude: 3722.425671,NorthSouth: N,longitude: 12258.856215,EastWest: W,mode: DA,satellites: 14,HDOP: 0.9,altitude: 1005.543,geoidal: 6.5,data: 5.2,station: 23

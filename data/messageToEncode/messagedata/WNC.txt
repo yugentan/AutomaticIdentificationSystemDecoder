@@ -1,0 +1,1 @@
+type: $GPWNC,distance1: 1.1,nautical: N,distance2: 1.1,km: K,TO: FSD,FROM: FDS

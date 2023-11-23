@@ -1,0 +1,1 @@
+type: $GPMSK,beaconFrequency: 283.5,manualFrequency: M,beaconBitRate: 25.5,manualBitRate: M,interval: 1.1,channel: 1

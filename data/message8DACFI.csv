@@ -1,0 +1,35 @@
+Text telegram using 6-bit ASCII	8	1	0		5	Replaced	ITU-R.M.1371-1	01/01/1998	31/05/2007
+Text using 6-bit ASCII	8	1	0		5	In force	ITU-R.M.1371-3	01/06/2007	
+Metreorological and hydrological data	8	1	11		2	Deprecated	IMO Circ. 236	16/05/2004	01/01/2013
+Fairway closed	8	1	13		3	Deprecated	IMO Circ. 236	17/05/2004	01/01/2013
+Extended ship static and voyage related data	8	1	15		1	Deprecated	IMO Circ. 236	19/05/2004	01/01/2013
+VTS targets (targets derived by means other than AIS)	8	1	16		1	In force	ITU-R.M.1371-1	01/01/1998	
+Pseudo-AIS targets	8	1	17		3	Deprecated	IMO Circ. 236	19/05/2004	01/01/2013
+VTS-generated/Synthetic targets	8	1	17		3	In force	IMO Circ. 289	01/06/2010	
+Advice of waypoints (AWP) and/or route plan of VTS	8	1	18		5	In force	ITU-R.M.1371-1	01/01/1998	
+Marine traffic signal	8	1	19		2	In force	IMO Circ. 289	01/06/2010	
+Weather observation report from ship	8	1	21		2	In force	IMO Circ. 289	01/06/2010	
+Area notice	8	1	22		5	In force	IMO Circ. 289	04/03/2011	
+Extended ship static and voyage-related data	8	1	24		2	In force	IMO Circ. 289	01/06/2010	
+Environmental	8	1	26		5	In force	IMO Circ. 289	01/06/2010	
+Route information	8	1	27		5	In force	IMO Circ. 289	01/06/2010	
+Text description	8	1	29		5	In force	IMO Circ. 289	01/06/2010	
+Meteorological and Hydrographic data	8	1	31		2	In force	IMO Circ. 289	01/06/2010	
+Inland ship static and voyage related data	8	200	10		1	In force		10/10/2007	
+Control Message	8	20	19	0	1	Draft	EU		
+EMMA warning	8	200	23		2	In force	EU	10/10/2007	
+Water levels	8	200	24		1	In force	EU	10/10/2007	
+Present Bridge Clearance message	8	200	25	0	1	Proposal	EU		
+Signal status	8	200	40		1	In force	EU	10/10/2007	
+Signal Lights message	8	200	41	0	1	Proposal	EU	24/11/2016	
+Intended route	8	219	1		3	Draft	Danish Maritime Authority	03/11/2011	
+Envelope/volume	8	224	50		5	Draft	gmv	01/01/2013	
+Lock Status	8	366	19	0	2	Draft	USCG RDC	01/10/2015	
+Area Notice	8	366	22		5	Deprecated	USCG RDC	12/04/2011	
+Environmental Message	8	366	33		5	Deprecated	USCG RDC	19/04/2011	01/01/2014
+Waterways Management	8	366	35		3	Deprecated	USCG RDC		
+Geographic Notice	8	367	22	2	5	Testing	USCG RDC		
+Linked Text	8	367	29	1	5	Testing	USCG RDC		
+Environmental Message	8	367	33	3	5	Testing	USCG RDC
+Waterways Management Message	8	367	35	2	3	Testing	USCG RDC		
+Offshore Unit Dimensions	8	710	11		4	Draft	PETROBRAS		

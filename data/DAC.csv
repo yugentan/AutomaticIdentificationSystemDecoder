@@ -1,0 +1,54 @@
+1,Inland navigationenforcement
+2,Inland fishing
+3,Offshore/high-seas fishing
+4,Port operations and vessel traffic services
+5,Law enforcement
+6,Search and rescue
+7,Meteorology and hydrology
+8,Safety and security
+9,Environmental protection
+10,Navigational and meteorological warnings
+11,Maritime safety information
+12,Ice reporting
+13,Aids to navigation
+14,Routeing and traffic schemes
+15,Tidal window (port and approach)
+16,Pilot services
+17,Tidal window (area)
+18,Traffic separation schemes
+19,Moor
+20,Port entry and exit
+21,Administration
+22,Port service
+23,Environmental information
+24,Tidal window (global)
+25,Hydrographic and geospatial data
+26,Pilot pickup request
+27,Moor
+28,Moor
+29,Tidal window (area)
+30,SafetyNet services
+1000,IALA AtoN monitoring
+1001,IALA AtoN maintenance
+1002,IALA AtoN repair
+1003,IALA AtoN out of service
+1004,IALA AtoN unavailable
+1005,IALA AtoN operational status
+1006,IALA AtoN maintenance status
+1007,IALA AtoN service availability
+1008,IALA AtoN status report
+1009,IALA AtoN maintenance report
+1010,IALA AtoN repair report
+1011,IALA AtoN service availability report
+1012,IALA AtoN status request
+1013,IALA AtoN maintenance request
+1014,IALA AtoN repair request
+1015,IALA AtoN service availability request
+1016,IALA AtoN status report
+1017,IALA AtoN maintenance report
+1018,IALA AtoN repair report
+1019,IALA AtoN service availability report
+1020,IALA AtoN status request
+1021,IALA AtoN maintenance request
+1022,IALA AtoN repair request
+1023,IALA AtoN service availability request
