@@ -29,7 +29,7 @@ public class App {
 
 	private int getUserInput(){
 		int userOption = 0;
-		System.out.print("Enter 1 - 7> ");
+		System.out.print("Enter 1 - 4> ");
 			String inpuString = sc.nextLine();
 			try{
 				userOption = Integer.parseInt(inpuString);
@@ -63,7 +63,13 @@ public class App {
 		r.init();
 	}
 	private void applicationLog(){
-		System.out.println("Application Log:");
+		String logs = "";
+		try{
+			logs = FileReader.read("logs/applicationLog.log");
+		}catch (Exception e){
+			System.out.println("Failed to read logs");
+		}
+		System.out.print("Application Log:" + logs);
 	}
 
 	private void exitApplication(){
