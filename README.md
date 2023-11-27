@@ -36,8 +36,12 @@ The following are some examples of valid encoded messages the AIS decoder should
   - $GNGNS,122310.2,3722.425671,N,12258.856215,W,DD,14,0.9,1005.543,6.5,,*74
   - !AIVDM,1,1,1,B,8>h8nkP0Glr=<hFI0D6??wvlFR06EuOwgwl?wnSwe7wvlOw?sAwwnSGmwvh0,0*17
 <br>
+
 The following is an output from the decoder given the first message `!AIVDM,1,1,,A,13u?etPv2;0n:dDPwUM1U1Cb069D,0*24`
+
 <br>
+
 ![image](https://github.com/yugentan/AutomaticIdentificationSystemDecoder/assets/84921573/49023aaf-0a0c-4835-86e6-9e2eb7f89cbb)
+
 <br>
 Enter messages that are valid and follows the documentation protocols else an invalid message will be prompted
