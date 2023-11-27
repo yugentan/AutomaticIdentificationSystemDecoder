@@ -45,3 +45,7 @@ The following is an output from the decoder given the first message `!AIVDM,1,1,
 
 <br>
 Enter messages that are valid and follows the documentation protocols else an invalid message will be prompted
+
+## Future Improvements
+This project has not been fully tested yet hence the **test folder + test suite** has not been push. There are some noticable bugs which has not been fix as well. Though multiline encapsulated sentence has been implemented in `Receiver` class in its queue implementation, support for it has not been implemented in the user input on console. Please use at your own risk. Development of this project will continue after FYP - featuring CloudAI (Stay Tune :D)
+
