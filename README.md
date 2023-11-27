@@ -23,8 +23,9 @@ java -jar AISDecoder.jar
 Alternatively, the project can be build from the src directory. This project is initialized on maven. Just make sure maven is installed.
 
 ## Example
-During launch, application will be prompted with a user menu as defined below
-![image](https://github.com/yugentan/AutomaticIdentificationSystemDecoder/assets/84921573/17a597d0-45bf-4104-8ee2-8e5685c4f757)
+During launch, application will be prompted with a user menu as defined below<br>
+
+![image](https://github.com/yugentan/AutomaticIdentificationSystemDecoder/assets/84921573/17a597d0-45bf-4104-8ee2-8e5685c4f757)<br>
 
 Entering 1 will prompt `Enter encoded message`
 The following are some examples of valid encoded messages the AIS decoder should be able to decode.
