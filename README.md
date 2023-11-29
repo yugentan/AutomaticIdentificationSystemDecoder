@@ -7,8 +7,7 @@ A novel re-implementation of my work done in one of my previous jobs. AIS, autom
 This project only implements the **Receiver** aspect of the system. The primary job of the receiver is to decode in a valid message defined by a set of protocol established in the documentation  [**NMEA0183-2**](https://github.com/yugentan/AutomaticIdentificationSystemDecoder/blob/main/docs/NMEA0183-2.pdf) and [**R-REC-M.1371-5-201402 Standards**](https://github.com/yugentan/AutomaticIdentificationSystemDecoder/blob/main/docs/R-REC-M.1371-5-201402-I!!PDF-E_1.pdf).
 
 ## Usage
-**Installation**
-Clone the repository using Git:## Usage
+
 **Installation** 
 
 Clone the repository using Git:
